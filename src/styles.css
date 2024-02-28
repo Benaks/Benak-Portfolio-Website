@@ -1,0 +1,10 @@
+/* styles.css */
+@font-face {
+    font-family: 'Eczar';
+    src: local('Eczar'), url('/fonts/eczar.woff2') format('woff2'),
+        url('/fonts/eczar.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+ 
