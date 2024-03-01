@@ -8,7 +8,7 @@ import HeroImg from '../assets/Hero-img.png'
 function Home() {
     return (
         <>
-            <div  className='font-poppins h-screen w-full pt-44 md:pt-60 pb-20 
+            <div  className='font-poppins h-[100vh] w-full pt-44 md:pt-60 pb-20 
              bg-gradient-to-b from-black to bg-gray-700'>
                 <div className='max-w-screen-lg mx-auto flex flex-col items-center 
                 justify-center h-full  px-4 md:flex-row md:w-full md:justify-between'>
